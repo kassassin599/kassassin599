@@ -32,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kassassin599&show_icons=true&locale=en" alt="kassassin599" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kassassin599&" alt="kassassin599" /></p>
-
-![](https://hit.yhype.me/github/profile?user_id=21290207)
