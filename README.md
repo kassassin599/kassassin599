@@ -30,7 +30,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kassassin599&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <p align="center">
-</p>
-
 <!--- Snake Animation -->
 ![Snake animation](https://github.com/kassassin599/kassassin599/blob/output/github-snake-dark.svg)
+</p>
+
+
