@@ -31,4 +31,6 @@
 
 <p align="center">
 </p>
+
+<!--- Snake Animation -->
 ![Snake animation](https://github.com/kassassin599/kassassin599/blob/output/github-snake-dark.svg)
