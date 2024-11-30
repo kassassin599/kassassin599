@@ -27,7 +27,7 @@ jobs:
           #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?color_snake=#e7bb41&color_dots=#393e41,#d3d0cb,#e7e5df,#44bba4,#e7bb41
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
