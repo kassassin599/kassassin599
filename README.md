@@ -30,5 +30,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kassassin599&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 <p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/kasassin599/kasassin599/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
