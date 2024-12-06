@@ -1,9 +1,10 @@
 [![MasterHead](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)](https://kassassin599.github.io/keshav/)
 <h1 align="center">Hi 👋, I'm Keshav Sharma</h1>
 <h3 align="center">A passionate Game and Web Developer with a strong foundation in Unity Game Engine.</h3>
-[![Side-Image](https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif)]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kassassin599&label=Profile%20views&color=0e75b6&style=flat" alt="kassassin599" /> </p>
+<img style="float: right;" src="https://i.pinimg.com/originals/ab/4e/40/ab4e409e99957a6a230ea580591af7db.gif" width="280">
+
+<p style="clear: right;" align="left"> <img src="https://komarev.com/ghpvc/?username=kassassin599&label=Profile%20views&color=0e75b6&style=flat" alt="kassassin599" /> </p>
 
 - 🔭 I’m currently working on **Space Shooter Game 👾**
 
