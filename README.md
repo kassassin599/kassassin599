@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Sharma</h1>
 <h3 align="center">A passionate Game and Web Developer with a strong foundation in Unity Game Engine.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/4e/40/ab4e409e99957a6a230ea580591af7db.gif" width="280">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/4e/40/ab4e409e99957a6a230ea580591af7db.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kassassin599&label=Profile%20views&color=0e75b6&style=flat" alt="kassassin599" /> </p>
 
